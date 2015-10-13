@@ -1,0 +1,13 @@
+{
+  "name": "angoolar-ngReact",
+  "version": "0.0.0",
+  "authors": [
+    "Stephane Rufer <stephane.rufer@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
